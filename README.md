@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Dinesh Raj
 
-<!--
-**DineshRaj-Web/DineshRaj-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Full Stack Developer | Shopify App Developer
 
-Here are some ideas to get you started:
+I am a Full Stack Developer focused on building scalable web applications and Shopify apps using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Skills
+
+- Shopify App Development  
+- React.js  
+- Node.js  
+- JavaScript (ES6+)  
+- REST APIs  
+- MySQL  
+- Prisma ORM  
+- Strapi CMS  
+- HTML5 & CSS3  
+
+---
+
+##  Tools
+
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+---
+
+##  Focus Area
+
+Shopify App Development | Full Stack Web Development
+
+---
+
+##  Programming Knowledge
+
+- Python  
+- Java  
+- C++  
+
+---
+
+##  Contact
+
+- LinkedIn: ( [Click here ](https://www.linkedin.com/in/dinesh-development/))
